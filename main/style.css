@@ -4,7 +4,6 @@
     padding: 0;
     font-family: 'IBM Plex Mono', monospace;
     text-decoration: none;
-
 }
 
 /* Hr */
@@ -32,6 +31,7 @@ hr.new_section {
     position: sticky;
     top: 0;
     z-index: 999;
+
 }
 
 .navbar_container {
